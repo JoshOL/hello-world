@@ -6,3 +6,7 @@ Hey this is Josh. I've used git before but I'm not very good at it, because it c
 ## More stuff about me
 
 I have cats.
+
+## Weather
+
+The weather today is nice. Sunny, warm but not hot.
